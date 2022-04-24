@@ -4,4 +4,6 @@ To use this template, clone this repo into whatever directory suits you. Do not 
 
 Then you can simply execute  
  `npx create-react-app my-app --template file:../path/to/your/template/cra-template-barebones`
+
+ 
  That's it.
