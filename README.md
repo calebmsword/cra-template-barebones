@@ -13,6 +13,7 @@ Then you can simply execute
   - Public directory does not include robots.text or manifest.json
   - Home page simply displays raw text ('Hello world!')
   - The styling imported in index.js sets the margin and padding to 0 for the `html` and `body` tags and includes no other styling
+  - No comments written in index.html
 
 # Project structure
 Any app built with this template will have the following project structure:
