@@ -12,7 +12,7 @@ Then you can simply execute
   - Does not install the the React Testing Library packages
   - Public directory does not include robots.text or manifest.json
   - Home page simply displays raw text ('Hello world!')
-  - The styling imported in index.js sets the margin and padding to 0 for the `html` and `body` tags. That's it.
+  - The styling imported in index.js sets the margin and padding to 0 for the `html` and `body` tags and includes no other styling
 
 # Project structure
 Any app built with this template will have the following project structure:
