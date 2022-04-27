@@ -10,7 +10,7 @@ Then you can simply execute
 # Differences from default template
   - Does not install web-vitals and does not include reportWebVitals.js
   - Does not install the the React Testing Library packages
-  - Public directory does not include robots.text or manifest.json
+  - Public directory does not include robots.txt or manifest.json
   - Home page simply displays raw text ('Hello world!')
   - The styling imported in index.js sets the margin and padding to 0 for the `html` and `body` tags and includes no other styling
   - No comments written in index.html
